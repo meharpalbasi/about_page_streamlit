@@ -1,3 +1,5 @@
+import streamlit as st 
+
 def donate_message():
     """A 'Buy Me a Coffee' message with a link to the donation page displayed
     inline"""
